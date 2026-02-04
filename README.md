@@ -109,6 +109,6 @@ Master's thesis, University of Southern California.
 
 ## Reuse & Collaboration
 
-This code is publicly available for transparency and reproducibility. If you're interested in adapting CliffWatch for another location or using this methodology in your research, please contact the author at [your email]. I'd welcome the opportunity to collaborate and track the system's scientific impact.
+This code is publicly available for transparency and reproducibility. If you're interested in adapting CliffWatch for another location or using this methodology in your research, please contact me at j_bighouse@yahoo.com. I'd welcome the opportunity to collaborate and track the system's scientific impact.
 
 See companion PWA repository: [github.com/JMBighouse/CliffWatch](https://github.com/JMBighouse/CliffWatch)
