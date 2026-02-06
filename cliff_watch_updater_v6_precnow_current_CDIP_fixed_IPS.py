@@ -17,8 +17,8 @@ FEATURES:
 - Optimal classification threshold from STCV (loaded from config)
 - Risk categories: Low < 0.30, Medium 0.30-0.60, High >= 0.60
 - RAINFALL SAFETY OVERRIDE (based on USGS research):
-  * Elevated: ≥12.5mm (0.5 in) in 1 hour OR ≥75mm (3 in) in 24 hours
-  * High: ≥25mm (1 in) in 1 hour OR ≥100mm (4 in) in 24 hours
+  * Elevated: 25mm in 1 hour OR 50mm in 24 hours
+  * High: 38mm in 1 hour OR 75mm in 24 hours
   * Critical: ≥40mm (1.6 in) in 1 hour OR ≥200mm (8 in) in 7 days
 - Environmental triggers for active warnings
 - CDIP/NDBC wave data with station fallback
